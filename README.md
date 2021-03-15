@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8t3yg3z10pt3ehe5lnkzi5c72&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ### Connect with me:
 
