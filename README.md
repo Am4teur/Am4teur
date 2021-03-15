@@ -1,17 +1,17 @@
-### Hey hey, I'm Daniel "Am4teur" Castro 👋
+### Hey hey 👋, I'm Daniel "Am4teur" Castro 
 
 
 
-## I'm a Developer who loves to learn new things!!
+## I'm a Developer who enjoy learning new things!
 
-- 🇵🇹 I live in Lisbon, Portugal near Tejo river
+- 🏡 I live in Lisbon, Portugal near Tejo river
 - 🎓 I’m currently on the last semester of master's in Computer Science and Engineering
 - 🥅 2021 Goals: Learn Go by either creating a project or Contributing to Open Source projects
 - ♟️ Fun fact: I'm currently enjoying playing chess
 
-### Spotify Playing 🎧
+### Languages and Tools:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8t3yg3z10pt3ehe5lnkzi5c72&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+TODO
 
 ### Connect with me:
 
@@ -21,9 +21,11 @@
 
 <br />
 
-### Languages and Tools:
+### Spotify Playing 🎧
 
-TODO
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8t3yg3z10pt3ehe5lnkzi5c72&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=8t3yg3z10pt3ehe5lnkzi5c72&redirect=true)
+
+
 
 <br />
 <br />
@@ -36,14 +38,3 @@ TODO
 TODO
 
 </details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-TODO
-
-</details>
-
-
-[instagram]: 
-[linkedin]: 
