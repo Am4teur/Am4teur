@@ -1,6 +1,5 @@
 # Hey hey 👋, I'm Daniel "Am4teur" Castro 
 
-
 ## Software Developer who enjoy learning new things!
 
 - 🎓 I’m currently on the last semester of master's degree in CS and Engineering at Instituto Superior Técnico
@@ -13,6 +12,16 @@
 ### Languages and Tools:
 
 Work in Progress...
+
+### Github Status
+
+<a href="https://github.com/Am4teur">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Am4teur&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+
+### Spotify Playing 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8t3yg3z10pt3ehe5lnkzi5c72&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=8t3yg3z10pt3ehe5lnkzi5c72&redirect=true)
 
 ### Let's connect and chat!
 
@@ -27,17 +36,4 @@ Work in Progress...
     <a href="https://dev.to/am4teur" alt="dev.to"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/download.png" height="30" width="30"></a>
     <a href="https://stackoverflow.com/users/11883240/am4teur" alt="Stackoverflow"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/2113121.jpg" height="30" width="30"></a>
   </p>
-
-<br />
-
-### Github Status
-
-<p align="center">
-  <a href="https://github.com/Am4teur">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Am4teur&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
 </p>
-
-### Spotify Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8t3yg3z10pt3ehe5lnkzi5c72&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=8t3yg3z10pt3ehe5lnkzi5c72&redirect=true)
