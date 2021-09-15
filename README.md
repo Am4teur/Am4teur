@@ -1,12 +1,12 @@
 # Hey hey 👋, I'm Daniel "Am4teur" Castro 
 
-## Software Developer who enjoy learning new things!
+## Software Developer who is eager to learn new stuff!
 
 - 🎓 I’m currently on the last semester of master's degree in CS and Engineering at Instituto Superior Técnico
-- 👨‍💻 I'm currently looking for a fullstack, frontend or backend job/internship
+- 👨‍💻 Currently working at Volkswagen Digital Solutions
 - 📚 My master's specialization is in Distributed Systems. I naturally like to improve system performance, availability and reliability
-- 🚀 Goals: Learn Go! Create a small/medium project
-- 🏡 Location: Lisbon, Portugal
+- 🚀 Goals: Learn Go by building a small/medium project
+- 🏡 Location: Lisbon, Portugal (Available for reallocation)
 - ♟️⚽🎸 I like to play chess, do sports and guitar
 
 ### Languages and Tools:
