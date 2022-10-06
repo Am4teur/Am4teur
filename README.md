@@ -1,17 +1,21 @@
 # Hey hey 👋, I'm Daniel "Am4teur" Castro 
 
-## Software Developer who is eager to learn new stuff!
+## Software Developer @ Volkswagen Digital Solutions
 
-- 🎓 I’m currently on the last semester of master's degree in CS and Engineering at Instituto Superior Técnico
-- 👨‍💻 Currently working at Volkswagen Digital Solutions
-- 📚 My master's specialization is in Distributed Systems. I naturally like to improve system performance, availability and reliability
-- 🚀 Goals: Learn Go by building a small/medium project
-- 🏡 Location: Lisbon, Portugal (Available for reallocation)
-- ♟️⚽🎸 I like to play chess, do sports and guitar
+- 🎓 Master's Degree in CS and Engineering at Instituto Superior Técnico. Major in Distributed Systems, Minor in Artifitial Intelligence
+- 👨‍💻 Currently working at Volkswagen Digital Solutions.
+- 📚 Reading all kinds of books, including fiction, self-improvement and more.
+- 🚀 Goals: Learn Go by building a small/medium project.
+- 🏡 Location: Lisbon, Portugal (Available for remote or reallocation).
+- ♟️⚽🎸 I like to play chess, run in new and unknown locations and play guitar.
 
 ### Languages and Tools:
 
 Work in Progress...
+
+Typescript, Javascript, NextJS, GraphQL, Redux, React-Query, Docker (for everything!)
+
+IDE: VSCode
 
 ### Github Status
 
