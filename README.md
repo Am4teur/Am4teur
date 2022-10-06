@@ -11,7 +11,7 @@
 
 ### Languages and Tools:
 
-Work in Progress...
+[comment]: <> (Work in Progress...)
 
 Typescript, Javascript, NextJS, GraphQL, Redux, React-Query, Docker (for everything!)
 
