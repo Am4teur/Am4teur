@@ -51,17 +51,17 @@ Hey 👋, I'm Daniel "Am4teur" Castro
 <img height="32" width="32" src="https://cdn.simpleicons.org/sass/#CC6699" />
 </div>
 <div>
-<img height="32" width="32" src="java.png"/>
+<img height="32" width="32" src="logos/java.png"/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/python/#3776AB" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/#339933" />
 </div>
 <div>
 <img height="32" width="32" src="https://cdn.simpleicons.org/docker/#2496ED" />
-<img height="32" width="48" src="aws.png" />
+<img height="32" width="48" src="logos/aws.png" />
 </div>
 <div>
 <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/##007ACC" />
-<img height="32" width="32" src="intellij.png" />
+<img height="32" width="32" src="logos/intellij.png" />
 </div>
 
 ## Github Status
