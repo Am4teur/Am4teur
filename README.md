@@ -1,3 +1,5 @@
+<style>a : { text-decoration-line: none; } </style>
+
 <h1 align="center"> 
 Hey 👋, I'm Daniel "Am4teur" Castro
 </h1>
@@ -5,22 +7,22 @@ Hey 👋, I'm Daniel "Am4teur" Castro
 <p align="center">
   <i>Let's connect and chat!</i>
   <p align="center">
-    <a href="https://www.linkedin.com/in/danieldmcastro/" alt="Linkedin" style="text-decoration:none">
+    <a href="https://www.linkedin.com/in/danieldmcastro/" alt="LinkedIn" style="color: #00000000">
       <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/"/>
     </a>
-    <a href="mailto:danieldmdecastro@gmail.com" alt="Contact me" style="text-decoration:none">
+    <a href="mailto:danieldmdecastro@gmail.com" alt="Contact me" style="text-decoration-line: none !important">
       <img height="32" width="32" src="https://cdn.simpleicons.org/gmail/"/>
     </a>
-    <a href="https://www.instagram.com/danieldmcastro/" alt="Instagram" style="text-decoration:none">
+    <a href="https://www.instagram.com/danieldmcastro/" alt="Instagram" style="text-decoration-line: none !important">
       <img height="32" width="32" src="https://cdn.simpleicons.org/instagram/"/>
     </a>
-    <a href="https://www.facebook.com/daniel.castro.11/" alt="Facebook" style="text-decoration:none">
+    <a href="https://www.facebook.com/daniel.castro.11/" alt="Facebook" style="text-decoration-line: none !important">
       <img height="32" width="32" src="https://cdn.simpleicons.org/facebook/"/>
     </a>
-    <a href="https://dev.to/am4teur" alt="dev.to" style="text-decoration:none">
+    <a href="https://dev.to/am4teur" alt="dev.to" style="text-decoration-line: none !important">
       <img height="32" width="32" src="https://cdn.simpleicons.org/devdotto/"/>
     </a>
-    <a href="https://stackoverflow.com/users/11883240/am4teur" alt="Stackoverflow" style="text-decoration:none">
+    <a href="https://stackoverflow.com/users/11883240/am4teur" alt="Stack Overflow" style="text-decoration-line: none !important">
       <img height="32" width="32" src="https://cdn.simpleicons.org/stackoverflow/"/>
     </a>
   </p>
@@ -34,10 +36,9 @@ Hey 👋, I'm Daniel "Am4teur" Castro
 - 🏡 Location: Lisbon, Portugal (Available for remote or relocation)
 - 🐬 Checkout my [hoobies](#hobbies)
 
-## Languages and Tools
+## Languages, Frameworks and Tools
 
 <div>
-
 <img height="32" width="32" src="https://cdn.simpleicons.org/react/#61DAFB" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/typescript/#3178C6" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E" />
