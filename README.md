@@ -5,22 +5,22 @@ Hey 👋, I'm Daniel "Am4teur" Castro
 <p align="center">
   <i>Let's connect and chat!</i>
   <p align="center">
-    <a href="https://www.linkedin.com/in/danieldmcastro/" alt="Linkedin">
+    <a href="https://www.linkedin.com/in/danieldmcastro/" alt="Linkedin" style="text-decoration:none">
       <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/"/>
     </a>
-    <a href="mailto:danieldmdecastro@gmail.com" alt="Contact me">
+    <a href="mailto:danieldmdecastro@gmail.com" alt="Contact me" style="text-decoration:none">
       <img height="32" width="32" src="https://cdn.simpleicons.org/gmail/"/>
     </a>
-    <a href="https://www.instagram.com/danieldmcastro/" alt="Instagram">
+    <a href="https://www.instagram.com/danieldmcastro/" alt="Instagram" style="text-decoration:none">
       <img height="32" width="32" src="https://cdn.simpleicons.org/instagram/"/>
     </a>
-    <a href="https://www.facebook.com/daniel.castro.11/" alt="Facebook">
+    <a href="https://www.facebook.com/daniel.castro.11/" alt="Facebook" style="text-decoration:none">
       <img height="32" width="32" src="https://cdn.simpleicons.org/facebook/"/>
     </a>
-    <a href="https://dev.to/am4teur" alt="dev.to">
+    <a href="https://dev.to/am4teur" alt="dev.to" style="text-decoration:none">
       <img height="32" width="32" src="https://cdn.simpleicons.org/devdotto/"/>
     </a>
-    <a href="https://stackoverflow.com/users/11883240/am4teur" alt="Stackoverflow">
+    <a href="https://stackoverflow.com/users/11883240/am4teur" alt="Stackoverflow" style="text-decoration:none">
       <img height="32" width="32" src="https://cdn.simpleicons.org/stackoverflow/"/>
     </a>
   </p>
@@ -31,16 +31,21 @@ Hey 👋, I'm Daniel "Am4teur" Castro
 - 🎤 Speaker about NextJS Auth @ [React Norway 2023](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiE-frk19P-AhW7TKQEHaLHDTAQFnoECAUQAQ&url=https%3A%2F%2Freactnorway.com%2F&usg=AOvVaw3TZq5oyfyHhN-fhGmk2UGK) & [Javascript Global Summit 2022](https://www.youtube.com/watch?v=x-IjPwEtx-s&t=14000s)
 - 🎓 Master's Degree 2021 in CS and Engineering at Instituto Superior Técnico ([#1 Engineering University in Portugal](https://ep.tecnico.ulisboa.pt/files/sites/65/the_2022_engenharia_relatorio_nov2021.pdf))
 - 🚀 Goals: Learn Go by building a small/medium project.
-- 🏡 Location: Lisbon, Portugal (Available for remote or reallocation)
+- 🏡 Location: Lisbon, Portugal (Available for remote or relocation)
 - 🐬 Checkout my [hoobies](#hobbies)
 
 ## Languages and Tools
 
 <div>
-<img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/#000000" />
+
 <img height="32" width="32" src="https://cdn.simpleicons.org/react/#61DAFB" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/typescript/#3178C6" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="logos/nextJsDarkMode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/#000000">
+  <img height="32" width="32" alt="NextJS logo" src="https://cdn.simpleicons.org/nextdotjs/#000000">
+</picture>
 <img height="32" width="32" src="https://cdn.simpleicons.org/reactivex/#B7178C" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/graphql/#E10098" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/reactquery/#FF4154" />
