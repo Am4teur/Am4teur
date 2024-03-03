@@ -29,11 +29,11 @@ Hey 👋, I'm Daniel "Am4teur" Castro
 ## Fullstack SWE @ Microsoft <img width="16" height="16" alt="VWDS" src="https://miro.medium.com/v2/resize:fit:1400/1*MxZpRFN3hnZrCC05s1q73A.png">
 
 - 💻 Former Fullstack SWE @ Tripadvisor <img src="https://logodownload.org/wp-content/uploads/2015/12/tripadvisor-logo-5.png" width="16" height="16" alt="tripadvisor logo"> and former Frontend SWE @ Volkswagen Digital Solutions <img width="16" height="16" alt="VWDS" src="https://media.licdn.com/dms/image/D4D0BAQHLJyAb6aeZqw/company-logo_200_200/0/1688644618196/volkswagen_digital_solutions_logo?e=1717632000&v=beta&t=yLCqVmCX7cwXH0h6hKNdHxb1PK1smkJmGjS5bEkX7oM"> <img width="16" height="16" alt="VW" src="https://uploads.vw-mms.de/system/production/images/vwn/030/145/images/7a0d84d3b718c9a621100e43e581278433114c82/DB2019AL01950_web_1600.jpg?1649155356">
-- 🎤 Speaker about NextJS Auth @ [React Norway 2023](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiE-frk19P-AhW7TKQEHaLHDTAQFnoECAUQAQ&url=https%3A%2F%2Freactnorway.com%2F&usg=AOvVaw3TZq5oyfyHhN-fhGmk2UGK) & [Javascript Global Summit 2022](https://www.youtube.com/watch?v=x-IjPwEtx-s&t=14000s)
+- 🎤 Speaker about NextJS Auth <img height="12" width="12" alt="NextAuth" src="logos/nextauth.png"/> @ [React Norway 2023](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiE-frk19P-AhW7TKQEHaLHDTAQFnoECAUQAQ&url=https%3A%2F%2Freactnorway.com%2F&usg=AOvVaw3TZq5oyfyHhN-fhGmk2UGK) <img height="12" width="16" alt="Norway" src="https://purecatamphetamine.github.io/country-flag-icons/3x2/NO.svg"/> & [Javascript Global Summit 2022](https://www.youtube.com/watch?v=x-IjPwEtx-s&t=14000s)
 - 🎓 Master's Degree 2021 in CS and Engineering @ Instituto Superior Técnico ([#1 Engineering University in Portugal](https://ep.tecnico.ulisboa.pt/files/sites/65/the_2022_engenharia_relatorio_nov2021.pdf))
 - 🚀 Goals: Learn Go by building a small/medium project.
 - 🏡 Based in Dublin, Ireland <img height="12" width="16" alt="Ireland" src="https://purecatamphetamine.github.io/country-flag-icons/3x2/IE.svg"/> | Originaly from Lisbon, Portugal <img height="12" width="16" alt="Portugal" src="https://purecatamphetamine.github.io/country-flag-icons/3x2/PT.svg"/>
-- 🐬 Checkout my [hoobies](#hobbies)
+- 🐬 Checkout my [hoobies 📚🏃‍♂️♘🎹](#hobbies)
 
 ## Languages, Frameworks and Tools
 
